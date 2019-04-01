@@ -1,0 +1,6 @@
+C:\Users\Alumno\source\repos\Clase06\Solution1\Clases\bin\Debug\Clases.dll.config
+C:\Users\Alumno\source\repos\Clase06\Solution1\Clases\bin\Debug\Clases.dll
+C:\Users\Alumno\source\repos\Clase06\Solution1\Clases\bin\Debug\Clases.pdb
+C:\Users\Alumno\source\repos\Clase06\Solution1\Clases\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Clase06\Solution1\Clases\obj\Debug\Clases.dll
+C:\Users\Alumno\source\repos\Clase06\Solution1\Clases\obj\Debug\Clases.pdb

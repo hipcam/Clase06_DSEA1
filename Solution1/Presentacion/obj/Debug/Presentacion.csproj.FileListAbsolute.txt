@@ -1,0 +1,16 @@
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Clases.dll
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Clases.pdb
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\bin\Debug\Clases.dll.config
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alumno\source\repos\Clase06\Solution1\Presentacion\obj\Debug\Presentacion.pdb
